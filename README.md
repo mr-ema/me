@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mr-ema
 - 👀 I’m interested in plans
-- 🌱 I’m currently learning express currently
+- 🌱 I’m currently learning express
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
