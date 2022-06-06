@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @mr-ema
-- 👀 I’m interested in plans
-- 🌱 I’m currently learning express
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 🚀 About Me
+- I'm @mr-ema a self-taught web developer.
+- I like code and learn new things.
 
-<!---
-mr-ema/mr-ema is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠 Skills
+- Javascript 
+- HTML 
+- CSS 
+- React 
+- NextJs 
+- Mongoose 
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mr-ema.github.io/)
+
+## Projects
+
+- Netflix Clone: https://github.com/mr-ema/netflix_clone
+- Coffe Store: https://nextjs-store-mr-ema.vercel.app/
+
